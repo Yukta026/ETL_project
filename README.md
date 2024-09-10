@@ -24,6 +24,7 @@ The pipeline is designed using various Azure tools, with each phase leveraging s
 <img width="722" alt="Screenshot 2024-09-09 at 10 29 52 PM" src="https://github.com/user-attachments/assets/a8391f77-c4c8-4296-a781-20dce6ada300">
 
 ## References 
-1) https://www.youtube.com/watch?v=IaA9YNlg5hM
-2) https://www.youtube.com/watch?v=nW0ffUW2vw4&t=0s
-3) https://www.numerro.io/design-challenges/olympic-games 
+1) https://www.kaggle.com/datasets/arjunprasadsarkhel/2021-olympics-in-tokyo 
+2) https://www.youtube.com/watch?v=IaA9YNlg5hM
+3) https://www.youtube.com/watch?v=nW0ffUW2vw4&t=0s
+4) https://www.numerro.io/design-challenges/olympic-games 
